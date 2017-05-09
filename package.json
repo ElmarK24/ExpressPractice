@@ -1,0 +1,22 @@
+{
+  "name": "expresspractice",
+  "version": "1.0.0",
+  "description": "First Express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElmarK24/ExpressPractice.git"
+  },
+  "author": "Elmar Krso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElmarK24/ExpressPractice/issues"
+  },
+  "homepage": "https://github.com/ElmarK24/ExpressPractice#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
